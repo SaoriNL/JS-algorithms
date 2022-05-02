@@ -8,3 +8,4 @@ function selectionsort(array)
       array[0] = temp;
       temp = array[0];
     }
+    return array;
